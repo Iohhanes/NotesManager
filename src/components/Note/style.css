@@ -1,0 +1,26 @@
+#progress-bar,
+#pct{
+    display: inline;
+    float: left;
+    color: rgb(7, 215, 191);
+
+}
+
+#pct {
+    margin-left: 10px;
+    vertical-align: middle;
+    height: 12px;
+    line-height: 12px;
+    font-size: small;
+}
+
+#progress-bar {
+    width:300px;
+    height:10px;
+    background-color: rgb(219, 219, 219);
+}
+
+#progress{
+    height: inherit;
+    background-color: rgb(7, 215, 191);
+}
